@@ -62,7 +62,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikh-vegeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-vegeta&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=ff69b4"/>
 </div>
 
 
