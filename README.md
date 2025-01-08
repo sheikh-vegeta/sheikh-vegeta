@@ -1,12 +1,4 @@
 <div align="center">
-  <img src="images/R.gif" width="100%" height="300px" style="object-fit: cover; border-radius: 15px; box-shadow: 0 0 20px #6366F1"/>
-</div>
-
-<h1 align="center">
-  🔥 Vegeta IV | sheikh-vegeta 🔥
-</h1>
-
-<div align="center">
   <img src="images/b3f303e796ad62a7306bcd4ceb5ef4ae.jpg" width="200px" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 0 20px #6366F1"/>
 </div>
 
