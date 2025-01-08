@@ -95,12 +95,6 @@
   <img src="https://komarev.com/ghpvc/?username=sheikh-vegeta&color=6366F1&style=for-the-badge&label=Power+Level+Scanned" alt="Profile Views" />
 </div>
 
-<div align="center">
-  
-  [![Spotify](https://novatorem-git-master.sheikh-vegeta.vercel.app/api/spotify)](https://open.spotify.com/user/sheikh-vegeta)
-  
-</div>
-
 <p align="center">
   <em>💫 "My pride is nothing compared to my power!" 💫</em>
 </p>
