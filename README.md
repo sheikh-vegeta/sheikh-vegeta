@@ -65,16 +65,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-vegeta&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=ff69b4"/>
 </div>
 
-### 🎮 Current Training Sessions
-
-<div align="center">
-  <a href="https://github.com/sheikh-vegeta/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheikh-vegeta&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-  </a>
-  <a href="https://github.com/sheikh-vegeta/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheikh-vegeta&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-  </a>
-</div>
 
 ### 🌍 Battle Locations
 
