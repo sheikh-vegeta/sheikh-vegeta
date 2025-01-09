@@ -66,5 +66,5 @@
 
   <em>💫 "My pride is nothing compared to my power!" 💫</em>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE4ejV4am40ZXUyY3dkODZ2eGk2OGo1Ym0xaHBtMjJqemRidmtjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/280z0u80t6q40/giphy.webp" width="200px" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 0 30px #6366F1"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE4ejV4am40ZXUyY3dkODZ2eGk2OGo1Ym0xaHBtMjJqemRidmtjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/280z0u80t6q40/giphy.webp"/>
 </div>
