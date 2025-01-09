@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdxd2NlMm9maGRwNGdlNnNmYWZjZXcyZWhteGg5ZDMyNjBoZ3JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVrPwH916t3ASL0Ff1/giphy.webp"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdxd2NlMm9maGRwNGdlNnNmYWZjZXcyZWhteGg5ZDMyNjBoZ3JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVrPwH916t3ASL0Ff1/giphy.webp" style="border-radius: 10px;"/>
 
   # Sheikh Vegeta
 
   <div>
-    <img src="images/vegeta-dragon-ball-z.gif" width="45px"/>
+    <img src="images/vegeta-dragon-ball-z.gif" width="45px" style="border-radius: 10px;"/>
     <b><i>"Let me ask you - does a machine like yourself ever experience fear?"</i></b>
-    <img src="images/vegeta-dragon-ball-z.gif" width="45px"/>
+    <img src="images/vegeta-dragon-ball-z.gif" width="45px" style="border-radius: 10px;"/>
   </div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Prince+of+All+Saiyans;Power+Level+%3E+9000)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Evangelist)](https://git.io/typing-svg)
 
   [![GitHub followers](https://img.shields.io/github/followers/sheikh-vegeta?style=for-the-badge&color=6366F1&labelColor=0D1117&logo=github)](https://github.com/sheikh-vegeta)
   ![Power Level](https://img.shields.io/badge/Power%20Level-Over%209000-ff69b4?style=for-the-badge&logo=dragon&labelColor=0D1117)
@@ -66,5 +66,10 @@
 
   <em>💫 "My pride is nothing compared to my power!" 💫</em>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE4ejV4am40ZXUyY3dkODZ2eGk2OGo1Ym0xaHBtMjJqemRidmtjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/280z0u80t6q40/giphy.webp"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE4ejV4am40ZXUyY3dkODZ2eGk2OGo1Ym0xaHBtMjJqemRidmtjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/280z0u80t6q40/giphy.webp" style="border-radius: 10px;"/>
+
+  ## ⚡ Final Words
+  Thank you for visiting! Remember, always strive to surpass your limits and achieve greatness. Stay strong and keep pushing forward!
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE4ejV4am40ZXUyY3dkODZ2eGk2OGo1Ym0xaHBtMjJqemRidmtjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/280z0u80t6q40/giphy.webp" style="border-radius: 10px;"/>
 </div>
