@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdxd2NlMm9maGRwNGdlNnNmYWZjZXcyZWhteGg5ZDMyNjBoZ3JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVrPwH916t3ASL0Ff1/giphy.webp" width="200px" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 0 30px #6366F1"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdxd2NlMm9maGRwNGdlNnNmYWZjZXcyZWhteGg5ZDMyNjBoZ3JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVrPwH916t3ASL0Ff1/giphy.webp"/>
 
   # Sheikh Vegeta
 
