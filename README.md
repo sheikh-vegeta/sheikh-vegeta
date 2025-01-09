@@ -60,6 +60,3 @@
 
   ## ⚡ Final Words
   Thank you for visiting! Remember, always strive to surpass your limits and achieve greatness. Stay strong and keep pushing forward!
-
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE4ejV4am40ZXUyY3dkODZ2eGk2OGo1Ym0xaHBtMjJqemRidmtjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/280z0u80t6q40/giphy.webp" style="border-radius: 10px;"/>
-</div>
