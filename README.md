@@ -47,9 +47,6 @@
   <img src="https://github-contribution-graph.ez4o.com/?username=sheikh-vegeta&theme=purple&hide_border=true&bg_color=0D1117&color=6366F1"/>
 
   ## 🤝 Join My Elite Force
-  <a href="https://linkedin.com/in/sheikh-vegeta">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-  </a>
   <a href="https://twitter.com/sheikh_vegeta">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117"/>
   </a>
