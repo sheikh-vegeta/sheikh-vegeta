@@ -49,10 +49,9 @@
   ## 🤝 Join My Elite Force
   <a href="https://sheikh-vegeta.dev">
     <img src="https://img.shields.io/badge/-Battle%20Portal-%236366F1?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117"/>
-  </a>
-
   ![Profile Views](https://komarev.com/ghpvc/?username=sheikh-vegeta&color=6366F1&style=for-the-badge&label=Power+Level+Scanned&labelColor=0D1117)
-
+  </a>
+  
   <em>💫 "My pride is nothing compared to my power!" 💫</em>
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE4ejV4am40ZXUyY3dkODZ2eGk2OGo1Ym0xaHBtMjJqemRidmtjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/280z0u80t6q40/giphy.webp" style="border-radius: 10px;"/>
