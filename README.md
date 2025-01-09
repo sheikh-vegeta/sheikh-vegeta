@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdxd2NlMm9maGRwNGdlNnNmYWZjZXcyZWhteGg5ZDMyNjBoZ3JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVrPwH916t3ASL0Ff1/giphy.webp" style="border-radius: 10px;"/>
 
-  # Sheikh Vegeta
-
   <div>
     <img src="images/vegeta-dragon-ball-z.gif" width="45px" style="border-radius: 10px;"/>
     <b><i>"Let me ask you - does a machine like yourself ever experience fear?"</i></b>
