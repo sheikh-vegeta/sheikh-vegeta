@@ -50,9 +50,6 @@
   <a href="https://sheikh-vegeta.dev">
     <img src="https://img.shields.io/badge/-Battle%20Portal-%236366F1?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117"/>
   </a>
-  <a href="mailto:contact@sheikh-vegeta.dev">
-    <img src="https://img.shields.io/badge/-Send%20Signal-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-  </a>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sheikh-vegeta&color=6366F1&style=for-the-badge&label=Power+Level+Scanned&labelColor=0D1117)
 
