@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/CVrPwH916t3ASL0Ff1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bandainamco-dragon-ball-z-sparking-zero-CVrPwH916t3ASL0Ff1">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdxd2NlMm9maGRwNGdlNnNmYWZjZXcyZWhteGg5ZDMyNjBoZ3JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVrPwH916t3ASL0Ff1/giphy.webp" width="200px" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 0 30px #6366F1"/>
+</div>
 
 <div align="center">
   <img src="images/vegeta-dragon-ball-z.gif" width="45px">
